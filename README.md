@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheeEjderr
+- ✔ Coding is a part of my life
+- 👀 I'm Doing My Best to Learn More

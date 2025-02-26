@@ -1,20 +1,39 @@
-# 👨‍💻 Developer Profile
+# Developer Profile
 
-```csharp
-public class DeveloperProfile
-{
-    public string Name { get; set; }
-    public string Title { get; set; }
-    public List<string> ProgrammingLanguages { get; set; }
-    public List<string> Tools { get; set; }
-    public string AboutMe { get; set; }
+## 📜 About Me
+Ben, yazılımda gelişmek için elinden geleni yapan bir öğrenciyim. Her gün yeni teknolojiler öğrenmeye çalışıyorum ve projelerde aktif olarak yer alarak deneyim kazanmaya devam ediyorum. 💻
 
-    public DeveloperProfile()
-    {
-        Name = "Ejder";  // Kişinin adı
-        Title = "Yazılım Öğrencisi";  // Başlık
-        ProgrammingLanguages = new List<string> { "C#", "JavaScript", "PHP", "Python", "CSS", "HTML" }; // Programlama dilleri
-        Tools = new List<string> { "Visual Studio", "Unity", "Blender", "Android Studio" };  // Kullanılan araçlar
-        AboutMe = "Ben, yazılımda gelişmek için elinden geleni yapan bir öğrenciyim.";  // Kendini tanıtma
-    }
-}
+---
+
+##  My Profile
+
+| **Attribute**             | **Details**                                      |
+|---------------------------|--------------------------------------------------|
+| **Name**                  | Ejder                                            |
+| **Title**                 | Yazılım Öğrencisi                                |
+| **Programming Languages** | C#, JavaScript, PHP, Python, CSS, HTML           |
+| **Tools**                 | Visual Studio, Unity, Blender, Android Studio    |
+
+---
+
+## 🛠️ Tools & Technologies
+
+I actively work with the following tools and technologies:
+
+- **Programming Languages:**
+  - C#
+  - JavaScript
+  - PHP
+  - Python
+  - CSS
+  - HTML
+
+- **Tools:**
+  - Visual Studio
+  - Unity
+  - Blender
+  - Android Studio
+
+---
+
+##  I'm open to collaborating on projects and expanding my knowledge!

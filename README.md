@@ -1,16 +1,16 @@
 # Developer Profile
 
 ## 📜 About Me
-Ben, yazılımda gelişmek için elinden geleni yapan bir öğrenciyim. Her gün yeni teknolojiler öğrenmeye çalışıyorum ve projelerde aktif olarak yer alarak deneyim kazanmaya devam ediyorum. 💻
+I am a student who is doing everything I can to grow in software development. I strive to learn new technologies every day and continue gaining experience by actively participating in projects. 💻
 
 ---
 
-##  My Profile
+## My Profile
 
 | **Attribute**             | **Details**                                      |
 |---------------------------|--------------------------------------------------|
 | **Name**                  | Ejder                                            |
-| **Title**                 | Yazılım Öğrencisi                                |
+| **Title**                 | Software Development Student                     |
 | **Programming Languages** | C#, JavaScript, PHP, Python, CSS, HTML           |
 | **Tools**                 | Visual Studio, Unity, Blender, Android Studio    |
 
@@ -36,4 +36,4 @@ I actively work with the following tools and technologies:
 
 ---
 
-##  I'm open to collaborating on projects and expanding my knowledge!
+## I'm open to collaborating on projects and expanding my knowledge!
